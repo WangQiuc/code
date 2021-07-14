@@ -1,4 +1,4 @@
-// kick start
+// Quick sort
 // wangqc
 #include<iostream>
 #include<algorithm>
